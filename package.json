@@ -1,0 +1,19 @@
+{
+  "name": "karma-commonjs-handlebars",
+  "version": "0.1.0",
+  "description": "Transform module for karma-commonjs-alias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taylorhakes/karma-commonjs-handlebars.git"
+  },
+  "author": "Taylor Hakes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taylorhakes/karma-commonjs-handlebars/issues"
+  },
+  "homepage": "https://github.com/taylorhakes/karma-commonjs-handlebars"
+}
